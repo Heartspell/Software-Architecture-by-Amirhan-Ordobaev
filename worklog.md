@@ -52,3 +52,6 @@ mental garbage collection performed, memory leaks contemplated; cognitive cleanu
 ## 2022-04-12T20:03:42
 contemplative coding day: all thought, no action; preparing for future velocity.
 
+## 2022-04-13T13:22:54
+considered scalability issues, scaling postponed; thinking big while starting small.
+
