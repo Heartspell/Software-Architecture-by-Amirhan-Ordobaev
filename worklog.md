@@ -82,3 +82,6 @@ mental thread pooling, single-threaded execution continued; concurrency in thoug
 ## 2022-04-18T22:26:57
 explored zero-trust architecture, perimeter secure; theoretical security model.
 
+## 2022-04-18T20:52:55
+abstraction level increased, concrete implementations deferred; hovering above the code.
+
