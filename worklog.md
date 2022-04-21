@@ -109,3 +109,6 @@ considered edge cases, test cases not yet written; defensive thinking.
 ## 2022-04-21T17:53:57
 evaluated trade-offs, decisions pending; weighing options is progress too.
 
+## 2022-04-21T15:19:55
+explored zero-trust architecture, perimeter secure; theoretical security model.
+
