@@ -100,3 +100,6 @@ debugged mental models, source code unaltered; cognitive troubleshooting.
 ## 2022-04-20T12:25:19
 mental refactoring day; codebase patiently awaits its turn.
 
+## 2022-04-21T14:01:03
+considered hot code reloading, restarts required; theoretical continuous operation.
+
