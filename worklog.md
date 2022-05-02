@@ -196,3 +196,6 @@ considered database sharding, monolithic db humming; theoretical data distributi
 ## 2022-05-02T15:11:00
 wrestled with concepts, code remained unaltered; groundwork for future commits.
 
+## 2022-05-02T13:29:58
+mental refactoring in progress, codebase untouched; restructuring thoughts.
+
