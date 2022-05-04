@@ -211,3 +211,6 @@ mental code signing, certificates unexpired; security in principle.
 ## 2022-05-03T14:08:25
 expanded solution space, implementation space static; exploring before committing.
 
+## 2022-05-03T20:34:22
+contemplated api versioning, endpoints stable; future-proofing interfaces mentally.
+
