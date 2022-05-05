@@ -229,3 +229,6 @@ explored blockchain concepts, distributed ledger imaginary; decentralized thinki
 ## 2022-05-04T14:15:20
 explored the solution maze, exit not yet found; mapping the territory.
 
+## 2022-05-04T19:41:17
+algorithm efficiency considered, implementation efficiency deferred; big O thinking.
+
