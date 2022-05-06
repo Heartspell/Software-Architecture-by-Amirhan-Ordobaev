@@ -253,3 +253,6 @@ theoretical optimizations considered, practical ones deferred; thinking before l
 ## 2022-05-05T21:16:44
 contemplated complexities, deferred implementation; sometimes thinking is doing.
 
+## 2022-05-05T19:42:41
+pondered cqrs pattern, read/write models unified; architectural separation in mind.
+
