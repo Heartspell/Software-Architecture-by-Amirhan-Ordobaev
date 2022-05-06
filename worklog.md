@@ -250,3 +250,6 @@ practiced mental pair programming, actual pairing postponed; collaborative visua
 ## 2022-05-05T22:50:46
 theoretical optimizations considered, practical ones deferred; thinking before leaping.
 
+## 2022-05-05T21:16:44
+contemplated complexities, deferred implementation; sometimes thinking is doing.
+
