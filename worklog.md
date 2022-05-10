@@ -283,3 +283,6 @@ pondered websocket implementations, http requests steady; real-time communicatio
 ## 2022-05-09T19:07:10
 considered message queues, synchronous operations ongoing; asynchronous ideation.
 
+## 2022-05-10T10:46:29
+mental graphql schema design, rest apis undisturbed; theoretical data querying.
+
