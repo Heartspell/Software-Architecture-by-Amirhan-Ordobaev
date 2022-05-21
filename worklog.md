@@ -355,3 +355,6 @@ mental load balancing performed, server loads theoretical; thought distribution.
 ## 2022-05-20T23:31:55
 explored edge cases mentally, test cases not yet written; proactive thinking.
 
+## 2022-05-20T21:57:52
+explored containerization concepts, docker files unwritten; mental isolation practice.
+
