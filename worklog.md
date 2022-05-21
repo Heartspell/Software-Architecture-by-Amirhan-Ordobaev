@@ -358,3 +358,6 @@ explored edge cases mentally, test cases not yet written; proactive thinking.
 ## 2022-05-20T21:57:52
 explored containerization concepts, docker files unwritten; mental isolation practice.
 
+## 2022-05-20T19:23:50
+abstract classes contemplated, concrete classes unchanged; OOP in the mind.
+
