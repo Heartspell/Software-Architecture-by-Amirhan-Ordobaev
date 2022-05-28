@@ -400,3 +400,6 @@ mental benchmarks set, performance tests unrun; standardizing expectations.
 ## 2022-05-27T19:53:22
 mental feature toggles, all features on; theoretical selective execution.
 
+## 2022-05-27T18:19:19
+contemplated api versioning, endpoints stable; future-proofing interfaces mentally.
+
