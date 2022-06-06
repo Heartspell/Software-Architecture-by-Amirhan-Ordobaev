@@ -445,3 +445,6 @@ explored blockchain concepts, distributed ledger imaginary; decentralized thinki
 ## 2022-06-02T20:27:57
 expanded solution space, implementation space static; exploring before committing.
 
+## 2022-06-06T12:55:56
+thought about scalability, current scale unmoved; future-proofing in mind.
+
