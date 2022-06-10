@@ -475,3 +475,6 @@ expanded problem awareness, solution implementation pending; clarity before codi
 ## 2022-06-08T16:03:09
 mental performance optimized, code performance untouched; preparing for sprints.
 
+## 2022-06-09T17:18:31
+debated best practices, practice put on hold; principles before patterns.
+
