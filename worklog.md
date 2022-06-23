@@ -586,3 +586,6 @@ explored event sourcing, state mutations ongoing; theoretical audit trails.
 ## 2022-06-23T15:53:39
 contemplated code smells, refactoring deferred; awareness precedes action.
 
+## 2022-06-23T13:19:37
+considered scalability issues, scaling postponed; thinking big while starting small.
+
