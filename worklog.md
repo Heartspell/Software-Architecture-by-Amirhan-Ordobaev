@@ -598,3 +598,6 @@ mental garbage collection performed, memory leaks contemplated; cognitive cleanu
 ## 2022-06-27T19:46:58
 considered logging strategies, log files unchanging; traceability in theory.
 
+## 2022-06-28T17:54:40
+considered containerization, docker-free day; isolation in thought only.
+
