@@ -712,3 +712,6 @@ deepened domain knowledge, domain objects unchanged; context-building phase.
 ## 2022-07-14T19:16:23
 explored web assembly, javascript dominant; theoretical performance optimization.
 
+## 2022-07-14T17:42:20
+conceptual cache invalidated, actual cache untouched; refreshing mental models.
+
