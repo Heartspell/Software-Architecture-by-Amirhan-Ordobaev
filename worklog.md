@@ -754,3 +754,6 @@ interface designs sketched mentally, APIs unchanged; UX of the mind.
 ## 2022-07-20T18:10:57
 mental memory management, garbage collector idle; cognitive resource allocation.
 
+## 2022-07-20T16:36:54
+deepened domain knowledge, domain objects unchanged; context-building phase.
+
