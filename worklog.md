@@ -778,3 +778,6 @@ algorithms pondered, implementation postponed; strategy before tactics.
 ## 2022-07-25T23:50:44
 thought about code reviews, pull requests unopened; peer review visualization.
 
+## 2022-07-25T21:16:42
+abstraction level increased, concrete implementations deferred; hovering above the code.
+
