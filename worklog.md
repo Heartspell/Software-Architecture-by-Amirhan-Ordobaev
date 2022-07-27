@@ -802,3 +802,6 @@ explored design patterns, pattern implementation pending; architectural musings.
 ## 2022-07-27T12:30:49
 conducted thought experiments, real experiments postponed; hypothesis before test.
 
+## 2022-07-27T10:56:47
+considered content delivery networks, origin servers busy; theoretical edge computing.
+
