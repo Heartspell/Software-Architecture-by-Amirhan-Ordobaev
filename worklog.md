@@ -877,3 +877,6 @@ explored possibilities, deferred decisions; progress measured in thoughts.
 ## 2022-08-04T14:34:17
 mental load increased, server load unchanged; cognitive heavy lifting.
 
+## 2022-08-05T16:32:34
+pondered homomorphic encryption, data in clear; theoretical secure computation.
+
