@@ -895,3 +895,6 @@ explored asynchronous ideas, synchronization deferred; parallel thinking day.
 ## 2022-08-09T17:59:17
 contemplated complexities, deferred implementation; sometimes thinking is doing.
 
+## 2022-08-09T15:25:15
+debated best practices, practice put on hold; principles before patterns.
+
