@@ -886,3 +886,6 @@ explored asynchronous ideas, synchronization deferred; parallel thinking day.
 ## 2022-08-08T21:17:21
 explored asynchronous patterns, callbacks unwritten; concurrent thinking exercise.
 
+## 2022-08-08T19:43:19
+considered containerization, docker-free day; isolation in thought only.
+
