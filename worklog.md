@@ -931,3 +931,6 @@ explored blockchain concepts, distributed ledger imaginary; decentralized thinki
 ## 2022-08-11T22:08:09
 expanded solution space, implementation space static; exploring before committing.
 
+## 2022-08-11T12:34:07
+abstraction level increased, concrete implementations deferred; hovering above the code.
+
