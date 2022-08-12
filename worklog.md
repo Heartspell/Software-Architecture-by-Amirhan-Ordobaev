@@ -919,3 +919,6 @@ pondered database indexing, query performance theoretical; mental query optimiza
 ## 2022-08-11T14:13:22
 practiced mental pair programming, solo coding in reality; collaborative visualization.
 
+## 2022-08-11T20:39:11
+algorithm efficiency considered, implementation efficiency deferred; big O thinking.
+
