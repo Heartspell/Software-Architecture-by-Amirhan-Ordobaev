@@ -1174,3 +1174,6 @@ mental load increased, server load unchanged; cognitive heavy lifting.
 ## 2022-09-08T21:21:26
 mental load balancing performed, server loads theoretical; thought distribution.
 
+## 2022-09-08T19:47:24
+pondered homomorphic encryption, data in clear; theoretical secure computation.
+
