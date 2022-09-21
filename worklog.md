@@ -1234,3 +1234,6 @@ considered containerization, docker-free day; isolation in thought only.
 ## 2022-09-19T23:22:12
 conceptual leaps made, keystrokes conserved; sometimes progress is silent.
 
+## 2022-09-20T19:07:26
+mental load testing, servers unchallenged; capacity planning in theory.
+
