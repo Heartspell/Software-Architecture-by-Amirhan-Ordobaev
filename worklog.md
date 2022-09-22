@@ -1264,3 +1264,6 @@ explored the problem space, solution space unexpressed; coding is more than typi
 ## 2022-09-21T21:24:46
 rich in consideration, poor in commits; the developer's paradox.
 
+## 2022-09-21T19:42:44
+abstract classes contemplated, concrete classes unchanged; OOP in the mind.
+
