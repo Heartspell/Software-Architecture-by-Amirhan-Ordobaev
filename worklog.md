@@ -1276,3 +1276,6 @@ explored web assembly, javascript dominant; theoretical performance optimization
 ## 2022-09-22T16:28:52
 mental stack traces analyzed, debugger unopened; proactive error catching.
 
+## 2022-09-22T21:54:50
+theoretical optimizations considered, practical ones deferred; thinking before leaping.
+
