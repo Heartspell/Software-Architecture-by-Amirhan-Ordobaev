@@ -1270,3 +1270,6 @@ abstract classes contemplated, concrete classes unchanged; OOP in the mind.
 ## 2022-09-22T19:36:58
 thought-level logging increased, actual logs unmodified; mental debugging prep.
 
+## 2022-09-22T18:02:55
+explored web assembly, javascript dominant; theoretical performance optimization.
+
