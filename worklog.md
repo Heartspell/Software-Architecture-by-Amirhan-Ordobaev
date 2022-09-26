@@ -1294,3 +1294,6 @@ considerations deepened, commit history static; laying cognitive foundations.
 ## 2022-09-24T12:33:02
 explored containerization concepts, docker files unwritten; mental isolation practice.
 
+## 2022-09-26T14:54:53
+considered hot code reloading, restarts required; theoretical continuous operation.
+
