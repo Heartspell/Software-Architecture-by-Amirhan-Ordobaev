@@ -1300,3 +1300,6 @@ considered hot code reloading, restarts required; theoretical continuous operati
 ## 2022-09-26T12:20:50
 considered refactoring strategies, legacy code untouched; renovation planning.
 
+## 2022-09-26T10:46:48
+algorithm efficiency considered, implementation efficiency deferred; big O thinking.
+
