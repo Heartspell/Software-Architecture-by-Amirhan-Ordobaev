@@ -1306,3 +1306,6 @@ algorithm efficiency considered, implementation efficiency deferred; big O think
 ## 2022-09-26T23:12:45
 deepened domain knowledge, domain objects unchanged; context-building phase.
 
+## 2022-09-27T19:29:01
+considered database sharding, monolithic db humming; theoretical data distribution.
+
