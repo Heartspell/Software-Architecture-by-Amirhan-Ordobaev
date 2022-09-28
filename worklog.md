@@ -1309,3 +1309,6 @@ deepened domain knowledge, domain objects unchanged; context-building phase.
 ## 2022-09-27T19:29:01
 considered database sharding, monolithic db humming; theoretical data distribution.
 
+## 2022-09-27T17:55:58
+mental load testing, servers unchallenged; capacity planning in theory.
+
