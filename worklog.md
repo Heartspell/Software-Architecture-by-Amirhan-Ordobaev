@@ -1444,3 +1444,6 @@ abstract classes contemplated, concrete classes unchanged; OOP in the mind.
 ## 2022-10-19T14:05:30
 considered logging strategies, log files unchanging; traceability in theory.
 
+## 2022-10-19T12:31:27
+thread safety considered, multithreading unexplored; concurrent thinking exercise.
+
