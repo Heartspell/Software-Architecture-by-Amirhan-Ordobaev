@@ -1498,3 +1498,6 @@ abstract data structures pondered, concrete ones unaltered; theoretical modeling
 ## 2022-10-25T12:14:20
 debugged mental models, source code unaltered; cognitive troubleshooting.
 
+## 2022-10-25T10:40:17
+considered scalability issues, scaling postponed; thinking big while starting small.
+
