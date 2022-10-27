@@ -1501,3 +1501,6 @@ debugged mental models, source code unaltered; cognitive troubleshooting.
 ## 2022-10-25T10:40:17
 considered scalability issues, scaling postponed; thinking big while starting small.
 
+## 2022-10-26T17:04:40
+considered database sharding, monolithic db humming; theoretical data distribution.
+
