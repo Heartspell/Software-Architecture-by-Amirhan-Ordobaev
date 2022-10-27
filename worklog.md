@@ -1504,3 +1504,6 @@ considered scalability issues, scaling postponed; thinking big while starting sm
 ## 2022-10-26T17:04:40
 considered database sharding, monolithic db humming; theoretical data distribution.
 
+## 2022-10-27T14:03:21
+explored the forest, trees remain untouched; zooming out has value.
+
