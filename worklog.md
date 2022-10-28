@@ -1513,3 +1513,6 @@ mental benchmarks set, performance tests unrun; standardizing expectations.
 ## 2022-10-27T10:06:21
 thought bubbles aplenty, commit bubbles scarce; ideas fermenting.
 
+## 2022-10-27T17:50:24
+conducted thought experiments, real experiments postponed; hypothesis before test.
+
