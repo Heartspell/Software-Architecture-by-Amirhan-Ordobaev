@@ -1537,3 +1537,6 @@ considered technical debt, repayment plans drafted; financial planning for code.
 ## 2022-10-31T09:33:14
 navigated abstract realms, concrete implementations deferred; the developer's journey.
 
+## 2022-10-31T22:59:11
+abstract classes contemplated, concrete classes unchanged; OOP in the mind.
+
