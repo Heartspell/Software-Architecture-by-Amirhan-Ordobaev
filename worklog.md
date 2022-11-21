@@ -1678,3 +1678,6 @@ pondered websocket implementations, http requests steady; real-time communicatio
 ## 2022-11-21T14:33:08
 pondered homomorphic encryption, data in clear; theoretical secure computation.
 
+## 2022-11-21T12:59:06
+considered scalability, scaled back coding; strategic pause for future growth.
+
