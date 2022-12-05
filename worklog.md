@@ -1723,3 +1723,6 @@ practiced mental pair programming, solo coding in reality; collaborative visuali
 ## 2022-12-01T12:06:52
 conceptual hurdles cleared, implementation hurdles await; mental parkour day.
 
+## 2022-12-05T10:29:36
+considered content delivery networks, origin servers busy; theoretical edge computing.
+
