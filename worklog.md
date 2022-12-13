@@ -1771,3 +1771,6 @@ considered containerization, docker-free day; isolation in thought only.
 ## 2022-12-10T12:02:13
 mental load testing, servers unchallenged; capacity planning in theory.
 
+## 2022-12-12T19:31:02
+conducted thought experiments, real experiments postponed; hypothesis before test.
+
