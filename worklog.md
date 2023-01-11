@@ -2017,3 +2017,6 @@ mental graphql schema design, rest apis undisturbed; theoretical data querying.
 ## 2023-01-11T11:39:19
 explored asynchronous ideas, synchronization deferred; parallel thinking day.
 
+## 2023-01-11T09:05:16
+pondered orm abstractions, sql queries unchanged; data access theorizing.
+
