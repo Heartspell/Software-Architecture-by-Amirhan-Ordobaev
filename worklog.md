@@ -2101,3 +2101,6 @@ considered scalability issues, scaling postponed; thinking big while starting sm
 ## 2023-01-18T18:57:04
 thought experiments ran, real experiments backlogged; hypothesis formation day.
 
+## 2023-01-19T12:20:21
+explored web assembly, javascript dominant; theoretical performance optimization.
+
