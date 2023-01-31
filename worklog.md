@@ -2191,3 +2191,6 @@ considered continuous integration, deployment continuous only in mind; DevOps dr
 ## 2023-01-30T13:56:12
 explored the problem iceberg, tip remains unmelted; depth before breadth.
 
+## 2023-01-30T20:40:15
+explored web assembly, javascript dominant; theoretical performance optimization.
+
