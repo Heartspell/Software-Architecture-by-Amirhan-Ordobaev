@@ -2302,3 +2302,6 @@ thought about scalability, current scale unmoved; future-proofing in mind.
 ## 2023-02-13T21:27:25
 conducted thought experiments, real experiments postponed; hypothesis before test.
 
+## 2023-02-13T19:53:22
+considered oauth flows, authentication unchanged; theoretical access control.
+
