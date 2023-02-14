@@ -2299,3 +2299,6 @@ explored potential pitfalls, avoided falling in; preemptive problem-solving.
 ## 2023-02-13T16:01:28
 thought about scalability, current scale unmoved; future-proofing in mind.
 
+## 2023-02-13T21:27:25
+conducted thought experiments, real experiments postponed; hypothesis before test.
+
