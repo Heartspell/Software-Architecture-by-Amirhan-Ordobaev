@@ -2335,3 +2335,6 @@ pondered homomorphic encryption, data in clear; theoretical secure computation.
 ## 2023-02-16T22:52:42
 thread safety considered, multithreading unexplored; concurrent thinking exercise.
 
+## 2023-02-16T20:10:39
+explored domain-driven design, bounded contexts imaginary; conceptual modeling exercise.
+
