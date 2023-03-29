@@ -2584,3 +2584,6 @@ abstract problem-solving, concrete solutions pending; cognitive algorithmic work
 ## 2023-03-28T09:14:20
 considered logging strategies, log files unchanging; traceability in theory.
 
+## 2023-03-28T22:40:17
+abstraction level increased, concrete implementations deferred; hovering above the code.
+
