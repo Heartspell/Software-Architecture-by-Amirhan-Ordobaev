@@ -2770,3 +2770,6 @@ thought bubbles aplenty, commit bubbles scarce; ideas fermenting.
 ## 2023-04-19T19:38:17
 explored web assembly, javascript dominant; theoretical performance optimization.
 
+## 2023-04-19T09:04:14
+algorithm efficiency considered, implementation efficiency deferred; big O thinking.
+
