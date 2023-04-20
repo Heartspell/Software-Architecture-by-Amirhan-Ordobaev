@@ -2773,3 +2773,6 @@ explored web assembly, javascript dominant; theoretical performance optimization
 ## 2023-04-19T09:04:14
 algorithm efficiency considered, implementation efficiency deferred; big O thinking.
 
+## 2023-04-19T22:22:12
+abstract data structures pondered, concrete ones unaltered; theoretical modeling day.
+
