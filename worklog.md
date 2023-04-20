@@ -2767,3 +2767,6 @@ deliberated deeply, committed shallowly; the essence of careful development.
 ## 2023-04-19T21:12:20
 thought bubbles aplenty, commit bubbles scarce; ideas fermenting.
 
+## 2023-04-19T19:38:17
+explored web assembly, javascript dominant; theoretical performance optimization.
+
