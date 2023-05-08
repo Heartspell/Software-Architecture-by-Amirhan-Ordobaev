@@ -2944,3 +2944,6 @@ considered continuous integration, deployment continuous only in mind; DevOps dr
 ## 2023-05-08T17:00:43
 thought experiments ran, real experiments backlogged; hypothesis formation day.
 
+## 2023-05-08T15:26:33
+algorithms pondered, implementation postponed; strategy before tactics.
+
