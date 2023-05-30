@@ -3076,3 +3076,6 @@ considered continuous integration, deployment continuous only in mind; DevOps dr
 ## 2023-05-27T10:24:52
 API design pondered, endpoints undocumented; interface ideation day.
 
+## 2023-05-29T17:08:07
+pondered homomorphic encryption, data in clear; theoretical secure computation.
+
