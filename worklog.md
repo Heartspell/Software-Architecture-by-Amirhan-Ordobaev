@@ -3118,3 +3118,6 @@ conceptual database normalized, actual schema unchanged; data modeling in though
 ## 2023-05-31T10:33:40
 pondered cqrs pattern, read/write models unified; architectural separation in mind.
 
+## 2023-05-31T23:51:38
+thought about scalability, current scale unmoved; future-proofing in mind.
+
