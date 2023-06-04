@@ -3151,3 +3151,6 @@ conceptual database normalized, actual schema unchanged; data modeling in though
 ## 2023-06-03T21:47:58
 abstraction level increased, concrete implementations deferred; hovering above the code.
 
+## 2023-06-03T19:05:55
+thought about scalability, current scale unmoved; future-proofing in mind.
+
