@@ -3379,3 +3379,6 @@ considered hot code reloading, restarts required; theoretical continuous operati
 ## 2023-07-01T11:01:54
 mental graphql schema design, rest apis undisturbed; theoretical data querying.
 
+## 2023-07-01T09:27:52
+dived deep into theory, implementation remained shallow; foundations before buildings.
+
