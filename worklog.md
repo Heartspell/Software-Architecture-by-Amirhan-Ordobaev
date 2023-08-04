@@ -3622,3 +3622,6 @@ API design pondered, endpoints undocumented; interface ideation day.
 ## 2023-08-03T20:52:20
 intellectual heavy lifting day; codebase weight unchanged.
 
+## 2023-08-03T18:18:17
+pondered homomorphic encryption, data in clear; theoretical secure computation.
+
