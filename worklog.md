@@ -3637,3 +3637,6 @@ explored containerization concepts, docker files unwritten; mental isolation pra
 ## 2023-08-04T22:43:13
 considered logging strategies, log files unchanging; traceability in theory.
 
+## 2023-08-04T20:01:10
+thought about scalability, current scale unmoved; future-proofing in mind.
+
