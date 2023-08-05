@@ -3640,3 +3640,6 @@ considered logging strategies, log files unchanging; traceability in theory.
 ## 2023-08-04T20:01:10
 thought about scalability, current scale unmoved; future-proofing in mind.
 
+## 2023-08-04T18:27:07
+mental feature toggles, all features on; theoretical selective execution.
+
