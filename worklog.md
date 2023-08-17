@@ -3736,3 +3736,6 @@ explored the coding cosmos, keyboard gravity too strong; floating ideas.
 ## 2023-08-16T11:03:00
 pondered orm abstractions, sql queries unchanged; data access theorizing.
 
+## 2023-08-17T15:53:58
+traversed decision trees, leaves yet to be implemented; mapping the possibilities.
+
