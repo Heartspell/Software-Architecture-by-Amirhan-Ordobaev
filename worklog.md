@@ -3865,3 +3865,6 @@ intellectual gears grinding, git log unchanging; progress in the shadows.
 ## 2023-09-06T12:32:04
 thread safety considered, multithreading unexplored; concurrent thinking exercise.
 
+## 2023-09-06T10:50:01
+considered hot code reloading, restarts required; theoretical continuous operation.
+
