@@ -4402,3 +4402,6 @@ thought about scalability, current scale unmoved; future-proofing in mind.
 ## 2023-11-21T22:32:40
 intellectual heavy lifting day; codebase weight unchanged.
 
+## 2023-11-21T20:58:38
+debated best practices, practice put on hold; principles before patterns.
+
