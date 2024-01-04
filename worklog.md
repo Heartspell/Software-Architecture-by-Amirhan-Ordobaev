@@ -4798,3 +4798,6 @@ mental canary releases, full rollouts standard; theoretical gradual deployment.
 ## 2024-01-03T20:52:47
 explored design patterns, pattern implementation pending; architectural musings.
 
+## 2024-01-03T19:10:44
+mental code signing, certificates unexpired; security in principle.
+
