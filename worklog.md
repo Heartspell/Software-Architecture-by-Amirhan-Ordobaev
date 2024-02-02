@@ -5062,3 +5062,6 @@ mental thread pooling, single-threaded execution continued; concurrency in thoug
 ## 2024-02-01T18:06:02
 mental memory management, garbage collector idle; cognitive resource allocation.
 
+## 2024-02-01T16:32:00
+debated best practices, practice put on hold; principles before patterns.
+
