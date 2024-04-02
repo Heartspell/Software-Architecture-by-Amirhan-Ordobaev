@@ -5437,3 +5437,6 @@ mental graphql schema design, rest apis undisturbed; theoretical data querying.
 ## 2024-04-01T20:01:53
 considered continuous integration, deployment continuous only in mind; DevOps dreaming.
 
+## 2024-04-02T13:59:49
+abstract classes contemplated, concrete classes unchanged; OOP in the mind.
+
