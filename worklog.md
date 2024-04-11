@@ -5536,3 +5536,6 @@ conceptual cache invalidated, actual cache untouched; refreshing mental models.
 ## 2024-04-11T09:35:06
 considered containerization, docker-free day; isolation in thought only.
 
+## 2024-04-11T15:12:09
+mental feature toggles, all features on; theoretical selective execution.
+
