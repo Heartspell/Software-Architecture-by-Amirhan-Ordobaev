@@ -5674,3 +5674,6 @@ conceptual unit tests passed, actual tests unwritten; mental QA day.
 ## 2024-05-02T22:13:50
 pondered database indexing, query performance theoretical; mental query optimization.
 
+## 2024-05-02T20:39:47
+debated best practices, practice put on hold; principles before patterns.
+
