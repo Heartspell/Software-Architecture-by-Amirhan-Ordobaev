@@ -5689,3 +5689,6 @@ deepened understanding, delayed execution; knowledge precedes implementation.
 ## 2024-05-03T13:17:28
 contemplated complexities, deferred implementation; sometimes thinking is doing.
 
+## 2024-05-06T13:40:03
+abstract classes contemplated, concrete classes unchanged; OOP in the mind.
+
