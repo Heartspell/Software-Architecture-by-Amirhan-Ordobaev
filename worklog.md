@@ -5899,3 +5899,6 @@ thread safety considered, multithreading unexplored; concurrent thinking exercis
 ## 2024-05-31T22:23:17
 rich in consideration, poor in commits; the developer's paradox.
 
+## 2024-05-31T20:49:14
+considered scalability issues, scaling postponed; thinking big while starting small.
+
