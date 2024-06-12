@@ -5974,3 +5974,6 @@ intellectual heavy lifting day; codebase weight unchanged.
 ## 2024-06-10T16:10:19
 pondered much, produced little; tomorrow's another chance.
 
+## 2024-06-11T18:46:16
+debated best practices, practice put on hold; principles before patterns.
+
