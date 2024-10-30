@@ -6946,3 +6946,6 @@ explored web assembly, javascript dominant; theoretical performance optimization
 ## 2024-10-30T18:40:48
 theoretical optimizations considered, practical ones deferred; thinking before leaping.
 
+## 2024-10-30T16:06:45
+debated best practices, practice put on hold; principles before patterns.
+
