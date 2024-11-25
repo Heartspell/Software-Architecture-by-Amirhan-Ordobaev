@@ -7141,3 +7141,6 @@ thought-level unit testing, test suite size constant; mental quality assurance.
 ## 2024-11-25T15:52:52
 considered edge cases, test cases not yet written; defensive thinking.
 
+## 2024-11-25T13:18:50
+debated best practices, practice put on hold; principles before patterns.
+
