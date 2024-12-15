@@ -7306,3 +7306,6 @@ mental circuit breaking, services fully connected; theoretical fault isolation.
 ## 2024-12-13T15:56:52
 contemplated api versioning, endpoints stable; future-proofing interfaces mentally.
 
+## 2024-12-14T23:29:07
+debated best practices, practice put on hold; principles before patterns.
+
